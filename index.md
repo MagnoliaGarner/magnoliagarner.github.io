@@ -1,5 +1,9 @@
-# Hello.
-### My name is M.
-This is normal text.
+# Welcome to my personal webpage.
+### My name is Magnolia.
+On this cite there are not many things to explore really. But it's somewhere to start right?
 
-This is *italics* text.
+*Use these to navigate the website*
+
+[My bio](
+
+[My hobbies](
