@@ -6,5 +6,3 @@ I'm just a banana living on Mars. Enough said...
 
 [Home](index.md)
 [My hobbies](topic.md)
-
-theme: jekyll-theme-midnight
