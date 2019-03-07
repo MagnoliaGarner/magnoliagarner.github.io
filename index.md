@@ -4,6 +4,6 @@ On this cite there are not many things to explore really. But it's somewhere to 
 
 *Use these to navigate the website*
 
-[My bio](
+[My bio](magnoliagarner.github.io/bio.md)
 
-[My hobbies](
+[My hobbies](magnoliagarner.github.io/topic.md)
